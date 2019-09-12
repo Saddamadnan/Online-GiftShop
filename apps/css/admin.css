@@ -1,0 +1,46 @@
+*{margin: 0px;padding: 0px}
+
+.left-section{
+	width: 100%;
+	min-height: 550px;
+	background-color: #0363AF;
+	color: white;
+}
+
+.left-section ul{
+	list-style: none;
+
+}
+
+.left-section ul li{
+	display: block;
+}
+
+.left-section ul li a{
+display: block;
+padding: 10px 15px;
+color:silver;
+font-size: 24px;
+text-decoration: none;
+}
+
+.left-section ul li a:hover{
+	background-color: #101010;
+}
+
+
+
+
+
+
+.right-section{
+width: 100%;
+min-height: 550px;
+
+}
+
+.right-section h3{
+	color:#000409;
+	font-size: 16px;
+	font-weight: normal;
+}

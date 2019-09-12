@@ -1,0 +1,200 @@
+*{margin: 0px;padding: 0px}
+
+.header{
+	height: 148px;
+	width: 100%;
+	background-color: #f1f1f1;
+}
+
+.header h2{
+	margin: 0px;
+	padding: 47px;
+	text-align: center;
+}
+
+
+.slider img{
+width: 100%;
+height: 400px;
+}
+
+
+.left-add-section{
+	width: 100%;
+	min-height: 250px;
+	background-image: url(../images/leftslider.png);
+	background-size: 100% 250px;
+	margin-top: 16px;
+
+}
+
+
+.left-add-section h2{
+	color:white;
+	font-size: 22px;
+	padding: 28px;
+	font-family: sans-serif; 
+	color:white; 
+	font-weight: bold;
+	font-size:30px; 
+	text-transform: uppercase;
+}
+
+
+.left-add-section h4{
+	color:blue;
+	font-size: 22px;
+	padding-left: 28px;
+	font-family:sans-serif; 
+    color:#003366; 
+    font-weight:bold;
+    text-transform:uppercase;
+    font-size:15px;
+}
+
+
+
+.left-add-section button{
+	color:white;
+	background-color: #004080;
+	padding: 10px;
+	border-radius: 3px;
+	border:none;
+	margin-left: 28px;
+	margin-top: 35px;
+}
+
+
+
+.right-add-section{
+	width: 100%;
+	min-height: 250px;
+	background-image: url(../images/rightslider.png);
+	background-size: 100% 250px;
+	margin-top: 16px;
+
+}
+
+
+.right-add-section h2{
+	color:white;
+	font-size: 22px;
+	padding: 28px;
+	font-family: sans-serif; 
+	color:white; 
+	font-weight: bold;
+	font-size:30px; 
+	text-transform: uppercase;
+	
+}
+
+
+.right-add-section h4{
+	color:blue;
+	font-size: 22px;
+	padding-left: 28px;
+	font-family:sans-serif; 
+    color:#003366; 
+    font-weight:bold;
+    text-transform:uppercase;
+    font-size:15px;
+}
+
+
+
+.right-add-section button{
+	color:white;
+	background-color: #004080;
+	padding: 10px;
+	border-radius: 3px;
+	border:none;
+	margin-left: 28px;
+	margin-top: 35px;
+}
+
+body{
+	background-color: #F1F1F1;
+}
+
+
+.product-box{
+	width: 100%;
+	min-height: 310px;
+	position: relative;
+	margin-bottom: 50px;
+}
+
+
+.iconimg{
+position: absolute;
+z-index: 100;
+right: 20px;
+top: 23px;
+}
+
+.productimg{
+	position: absolute;
+	width: 90%;
+	left: 5%;
+	height: 130px;
+	top: 50px;
+}
+
+.product-box h2{
+	position: absolute;
+	bottom: 35px;
+	font-size: 20px;
+	color:black;
+	border-top:1px solid silver;
+	width: 100%;
+	padding-top: 20px;
+}
+
+
+.product-box h3{
+	position: absolute;
+	bottom: 2px;
+	font-size: 20px;
+	color:red;
+}
+
+
+.details{
+margin-top: 30px;
+}
+
+
+
+.details .product-details-image{
+	width: 100%;
+	min-height: 300px;
+	border:0.5px solid silver;
+	padding: 5px;
+}
+
+.product-details-image img{
+	width: 100%;
+	height: 100%;
+}
+
+
+.details table tr,td{
+border-bottom: 0.5px solid silver;
+padding: 10px;
+}
+
+
+.all-image{
+	width: 60px;
+	height: 60px;
+	border:0.5px solid silver;
+	padding: 2px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 20px;
+}
+
+.all-image img{
+height: 100%;
+width: 100%;
+}
